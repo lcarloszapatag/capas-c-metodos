@@ -1,0 +1,7 @@
+c:\Users\Flavio Arenas\Documents\Visual Studio 2015\Projects\capas1\Negocio\bin\Debug\Negocio.dll
+c:\Users\Flavio Arenas\Documents\Visual Studio 2015\Projects\capas1\Negocio\bin\Debug\Negocio.pdb
+c:\Users\Flavio Arenas\Documents\Visual Studio 2015\Projects\capas1\Negocio\bin\Debug\Conexion.dll
+c:\Users\Flavio Arenas\Documents\Visual Studio 2015\Projects\capas1\Negocio\bin\Debug\Conexion.pdb
+c:\Users\Flavio Arenas\Documents\Visual Studio 2015\Projects\capas1\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+c:\Users\Flavio Arenas\Documents\Visual Studio 2015\Projects\capas1\Negocio\obj\Debug\Negocio.dll
+c:\Users\Flavio Arenas\Documents\Visual Studio 2015\Projects\capas1\Negocio\obj\Debug\Negocio.pdb
